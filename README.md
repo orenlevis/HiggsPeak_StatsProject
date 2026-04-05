@@ -1,6 +1,6 @@
 # HiggsPeak_StatsProject
 
-This project aims to reconstruct the Higgs boson discovery signal using its decay into four leptons. Using official open data from CERN (https://opendata.cern.ch/record/12360), the invariant mass spectrum is reconstructed and a signal + background model is fit using Bayesian inference techniques. The results of this project are reported in [`main`](Higgs_report.pdf)
+This project aims to reconstruct the Higgs boson discovery signal using its decay into four leptons. Using official open data from CERN (https://opendata.cern.ch/record/12360), the invariant mass spectrum is reconstructed and a signal + background model is fit using Bayesian inference techniques. The results of this project are reported [`here`](Higgs_report.pdf)
 
 ---
 
